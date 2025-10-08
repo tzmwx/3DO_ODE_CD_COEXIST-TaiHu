@@ -1,3 +1,7 @@
+注意：使用时不得修改PCB方案和标识信息
+注意：使用时不得修改PCB方案和标识信息
+注意：使用时不得修改PCB方案和标识信息
+
 <img width="904" height="458" alt="ZH}`BTE79`YL405OZ1BQW73" src="https://github.com/user-attachments/assets/0e768464-feb6-4b7c-bc3c-509b337f6922" />
 <img width="903" height="458" alt="$(7WH_R0BT8X)JH54$P95T5" src="https://github.com/user-attachments/assets/a57f3f53-7eca-4634-b5c1-6b390ec1b284" />
 
