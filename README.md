@@ -7,5 +7,9 @@
 
 # 3DO_ODE_CD_COEXIST-TaiHu
 USB to 3DO ，ODE/CD COEXIST，PANASONIC FZ1，SANYO 21J，GOLDSTAR 101M
+<img width="1285" height="755" alt="7559153797707560103" src="https://github.com/user-attachments/assets/941edb7a-88c5-42d6-812d-eb49457203ad" />
+
 ![IMG_3351](https://github.com/user-attachments/assets/92f0a645-f4a6-438d-8570-9c39d35f7bf9)
+<img width="1377" height="775" alt="CB 42S21HAT_S0C_XU~$YX" src="https://github.com/user-attachments/assets/42a98d35-44d5-4ca3-94a5-7d183922a2e6" />
+
 ![IMG_3353](https://github.com/user-attachments/assets/7f253b69-ad0d-465d-8fd3-7bb4c65284c0)
