@@ -16,11 +16,11 @@ USB to 3DO ，ODE/CD COEXIST，PANASONIC FZ1，SANYO 21J，GOLDSTAR 101M
 
 <img width="1285" height="755" alt="7559153797707560103" src="https://github.com/user-attachments/assets/941edb7a-88c5-42d6-812d-eb49457203ad" />
 
-注意：使用时不得修改PCB方案和标识信息
+# 注意：使用时不得修改PCB方案和标识信息
 
-注意：使用时不得修改PCB方案和标识信息
+# 注意：使用时不得修改PCB方案和标识信息
 
-注意：使用时不得修改PCB方案和标识信息
+# 注意：使用时不得修改PCB方案和标识信息
 
 这是Francois CARON的SATATO3DO项目https://github.com/FCare/SataTo3DO 的拓展。
 
