@@ -2,8 +2,8 @@
 注意：使用时不得修改PCB方案和标识信息
 注意：使用时不得修改PCB方案和标识信息
 
-<img width="904" height="458" alt="ZH}`BTE79`YL405OZ1BQW73" src="https://github.com/user-attachments/assets/0e768464-feb6-4b7c-bc3c-509b337f6922" />
-<img width="903" height="458" alt="$(7WH_R0BT8X)JH54$P95T5" src="https://github.com/user-attachments/assets/a57f3f53-7eca-4634-b5c1-6b390ec1b284" />
+![TH2](https://github.com/user-attachments/assets/e81c27fc-387a-455b-bde7-9a6cc76c9c44)
+![TH1](https://github.com/user-attachments/assets/3e91899a-0517-4641-a3e1-ae7a3322934c)
 
 # 3DO_ODE_CD_COEXIST-TaiHu
 USB to 3DO ，ODE/CD COEXIST，PANASONIC FZ1，SANYO 21J，GOLDSTAR 101M
