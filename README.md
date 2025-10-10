@@ -30,3 +30,8 @@ TaiHu方案兼容Panasonic FZ-1、Sanyo IMP-21J、GoldStar 101M。
 带有Fcare名称的Gerber文件兼容Francois的Frimware，可在他的网站直接下载。
 
 具体制作办法请按照BOM文件中的清单和列表进行。
+
+
+
+# Panasonic FZ1
+![IMG_3374](https://github.com/user-attachments/assets/98185f95-48e1-4b9c-9959-1c1151bcac26)
