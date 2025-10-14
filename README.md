@@ -27,7 +27,10 @@ USB to 3DO ，ODE/CD COEXIST，PANASONIC FZ1，SANYO 21J，GOLDSTAR 101M
 
 TaiHu方案兼容Panasonic FZ-1、Sanyo IMP-21J、GoldStar 101M。
 
-带有Fcare名称的Gerber文件兼容Francois的Frimware，可在他的网站直接下载。
+这个硬件方案在2023年6月完成，是我的USBto3DO第二版，放弃了第一版使用的TXS0108芯片，全部使用性能更匹配更稳定的74LVC4245芯片，解决了Sanyo和GoldStar主机需要拆原主板电容的不足，真正做到了即插即用。
+
+带有Fcare名称的Gerber文件兼容Francois先生的Firmware，可在他的网站直接下载。该文件同样支持原USBto3DOD的Firmware，可减少3个元器件，但需增加一个跳线的连接。
+
 
 具体制作办法请按照BOM文件中的清单和列表进行。
 
@@ -35,3 +38,12 @@ TaiHu方案兼容Panasonic FZ-1、Sanyo IMP-21J、GoldStar 101M。
 
 # Panasonic FZ1
 ![IMG_3374](https://github.com/user-attachments/assets/98185f95-48e1-4b9c-9959-1c1151bcac26)
+
+
+# Sanyo 21J
+
+# GoldStar 101M
+
+
+
+注意：此装置不支持VCD镜像
