@@ -41,9 +41,12 @@ TaiHu方案兼容Panasonic FZ-1、Sanyo IMP-21J、GoldStar 101M。
 
 
 # Sanyo 21J
+![IMG_3400](https://github.com/user-attachments/assets/70fed9f8-e5ce-4de1-9bd9-bd1eb1f43e27)
+
 
 # GoldStar 101M
 
+![IMG_3398](https://github.com/user-attachments/assets/8552b8f1-e4cf-44ee-886e-52949256740a)
 
 
-注意：此装置不支持VCD镜像
+（注意：TaiHu不支持VCD镜像）
